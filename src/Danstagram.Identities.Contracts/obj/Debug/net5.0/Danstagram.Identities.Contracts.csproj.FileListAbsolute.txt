@@ -1,0 +1,11 @@
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Contracts\bin\Debug\net5.0\Danstagram.Identities.Contracts.deps.json
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Contracts\bin\Debug\net5.0\Danstagram.Identities.Contracts.dll
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Contracts\bin\Debug\net5.0\Danstagram.Identities.Contracts.pdb
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Contracts\obj\Debug\net5.0\Danstagram.Identities.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Contracts\obj\Debug\net5.0\Danstagram.Identities.Contracts.AssemblyInfoInputs.cache
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Contracts\obj\Debug\net5.0\Danstagram.Identities.Contracts.AssemblyInfo.cs
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Contracts\obj\Debug\net5.0\Danstagram.Identities.Contracts.csproj.CoreCompileInputs.cache
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Contracts\obj\Debug\net5.0\Danstagram.Identities.Contracts.dll
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Contracts\obj\Debug\net5.0\refint\Danstagram.Identities.Contracts.dll
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Contracts\obj\Debug\net5.0\Danstagram.Identities.Contracts.pdb
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Contracts\obj\Debug\net5.0\ref\Danstagram.Identities.Contracts.dll
