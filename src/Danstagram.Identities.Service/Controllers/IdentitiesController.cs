@@ -39,8 +39,8 @@ namespace Danstagram.Identities.Service.Controllers{
             return (await this.repository.GetAllAsync()).Select(item => item.AsDto());
         }
 
-        [Route("")]
-        [HttpGet("{id}")]
+        [Route("{id}")]
+        [HttpGet()]
         public async Task<ActionResult<IdentityDto>> GetByIdAsync(Guid id){
             var identity = await this.repository.GetAsync(id);
             if (identity == null) return NotFound();
@@ -81,14 +81,14 @@ namespace Danstagram.Identities.Service.Controllers{
             return CreatedAtAction(nameof(GetByIdAsync),new {id = identity.Id},identity.AsDto());
         }
 
-        [Route("")]
-        [HttpDelete("{id}")]
+        [Route("{id}")]
+        [HttpDelete]
         public async Task<ActionResult> DeleteAsync(Guid id){
             if ((await this.repository.GetAsync(id)) == null) return NoContent();
 
             await this.repository.RemoveAsync(id);
             await this.publishEndpoint.Publish(new IdentityDeleted(id));
-            
+
             return NoContent();
         }
         #endregion
