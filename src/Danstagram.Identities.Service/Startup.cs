@@ -12,12 +12,18 @@ namespace Danstagram.Identities.Service
 {
     public class Startup
     {
+        #region Consturctors
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
         }
+        #endregion
 
+        #region Properties
         public IConfiguration Configuration { get; }
+        #endregion
+
+        #region Methods
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
@@ -58,5 +64,6 @@ namespace Danstagram.Identities.Service
                 endpoints.MapControllers();
             });
         }
+        #endregion
     }
 }
