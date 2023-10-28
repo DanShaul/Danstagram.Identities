@@ -113,7 +113,7 @@
           "dependencies": {
             "Danstagram.Common": {
               "target": "Package",
-              "version": "[1.0.2, )"
+              "version": "[1.0.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

@@ -40,7 +40,7 @@ namespace Danstagram.Identities.Service.Controllers{
         }
 
         [Route("{id}")]
-        [HttpGet()]
+        [HttpGet]
         public async Task<ActionResult<IdentityDto>> GetByIdAsync(Guid id){
             var identity = await this.repository.GetAsync(id);
             if (identity == null) return NotFound();

@@ -33,7 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Danstagram.Identities.Service/1.0.0": {
         "dependencies": {
-          "Danstagram.Common": "1.0.2",
+          "Danstagram.Common": "1.0.4",
           "Danstagram.Identities.Contracts": "1.0.0",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -335,7 +335,7 @@
           "lib/netcoreapp3.1/AWSSDK.SecurityToken.dll": {}
         }
       },
-      "Danstagram.Common/1.0.2": {
+      "Danstagram.Common/1.0.4": {
         "dependencies": {
           "MassTransit.AspNetCore": "7.3.1",
           "MassTransit.RabbitMQ": "8.1.1",
@@ -2519,12 +2519,12 @@
       "path": "awssdk.securitytoken/3.7.100.14",
       "hashPath": "awssdk.securitytoken.3.7.100.14.nupkg.sha512"
     },
-    "Danstagram.Common/1.0.2": {
+    "Danstagram.Common/1.0.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-R7TPM/PdXKWMqNSXi0FmvPqoCqABzkVozC6OREzqiYhmSmJE/tCPqSrTFg0CqT6V/gZ6i59H4gMQFSRB5kImaw==",
-      "path": "danstagram.common/1.0.2",
-      "hashPath": "danstagram.common.1.0.2.nupkg.sha512"
+      "sha512": "sha512-QndrRqj/yXXwruGBOsZljyclZbCm6rBnOCgVTYb2uJYeNtOEWnjN0Q+jgu/VbWzxBrZIzBQEh4B7V/jkNFKfUw==",
+      "path": "danstagram.common/1.0.4",
+      "hashPath": "danstagram.common.1.0.4.nupkg.sha512"
     },
     "DnsClient/1.6.1": {
       "type": "package",

@@ -31,7 +31,7 @@
           }
         }
       },
-      "Danstagram.Common/1.0.2": {
+      "Danstagram.Common/1.0.4": {
         "type": "package",
         "dependencies": {
           "MassTransit.AspNetCore": "7.3.1",
@@ -875,13 +875,13 @@
         "tools/uninstall.ps1"
       ]
     },
-    "Danstagram.Common/1.0.2": {
-      "sha512": "R7TPM/PdXKWMqNSXi0FmvPqoCqABzkVozC6OREzqiYhmSmJE/tCPqSrTFg0CqT6V/gZ6i59H4gMQFSRB5kImaw==",
+    "Danstagram.Common/1.0.4": {
+      "sha512": "QndrRqj/yXXwruGBOsZljyclZbCm6rBnOCgVTYb2uJYeNtOEWnjN0Q+jgu/VbWzxBrZIzBQEh4B7V/jkNFKfUw==",
       "type": "package",
-      "path": "danstagram.common/1.0.2",
+      "path": "danstagram.common/1.0.4",
       "files": [
         ".nupkg.metadata",
-        "danstagram.common.1.0.2.nupkg.sha512",
+        "danstagram.common.1.0.4.nupkg.sha512",
         "danstagram.common.nuspec",
         "lib/net5.0/Danstagram.Common.dll"
       ]
@@ -2091,7 +2091,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Danstagram.Common >= 1.0.2",
+      "Danstagram.Common >= 1.0.4",
       "Danstagram.Identities.Contracts >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
@@ -2148,7 +2148,7 @@
         "dependencies": {
           "Danstagram.Common": {
             "target": "Package",
-            "version": "[1.0.2, )"
+            "version": "[1.0.4, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
