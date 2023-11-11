@@ -1,14 +1,14 @@
 using System;
 
-namespace Danstagram.Identities
+namespace Danstagram.Identities.Service
 {
     #region Properties
 
-    public record IdentityDto(Guid Id, string UserName);
+    public record IdentityDto(Guid Id, string Username);
 
-    public record CreateIdentityDto(Guid Id,string UserName,string Password);
+    public record CreateIdentityDto(string Username, string Password);
 
-    public record AuthIdentityDto(string UserName,string Password);
+    public record AuthIdentityDto(string Username, string Password);
 
     public record DeleteIdentityDto(Guid Id);
 

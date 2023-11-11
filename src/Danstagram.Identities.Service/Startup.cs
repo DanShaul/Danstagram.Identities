@@ -29,15 +29,15 @@ namespace Danstagram.Identities.Service
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.AddMongo()
+            _ = services.AddMongo()
                 .AddMongoRepository<Identity>("identities")
                 .AddMassTransitWithRabbitMQ();
 
-            services.AddControllers(options =>
+            _ = services.AddControllers(options =>
             {
                 options.SuppressAsyncSuffixInActionNames = false;
             });
-            services.AddSwaggerGen(c =>
+            _ = services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Danstagram.Identities.Service", Version = "v1" });
             });
@@ -48,20 +48,20 @@ namespace Danstagram.Identities.Service
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Danstagram.Identities.Service v1"));
+                _ = app.UseDeveloperExceptionPage();
+                _ = app.UseSwagger();
+                _ = app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Danstagram.Identities.Service v1"));
             }
 
-            app.UseHttpsRedirection();
+            _ = app.UseHttpsRedirection();
 
-            app.UseRouting();
+            _ = app.UseRouting();
 
-            app.UseAuthorization();
+            _ = app.UseAuthorization();
 
-            app.UseEndpoints(endpoints =>
+            _ = app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers();
+                _ = endpoints.MapControllers();
             });
         }
         #endregion

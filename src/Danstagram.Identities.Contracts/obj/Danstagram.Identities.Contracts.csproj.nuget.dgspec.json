@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Necessary\\Open Uni Matalot\\Sadna Be Tihnut monhe atzamim\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Contracts\\Danstagram.Identities.Contracts.csproj": {}
+    "E:\\Necessary\\Studies\\University\\OpenUniversity\\Sadna\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Contracts\\Danstagram.Identities.Contracts.csproj": {}
   },
   "projects": {
-    "D:\\Necessary\\Open Uni Matalot\\Sadna Be Tihnut monhe atzamim\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Contracts\\Danstagram.Identities.Contracts.csproj": {
+    "E:\\Necessary\\Studies\\University\\OpenUniversity\\Sadna\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Contracts\\Danstagram.Identities.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Necessary\\Open Uni Matalot\\Sadna Be Tihnut monhe atzamim\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Contracts\\Danstagram.Identities.Contracts.csproj",
+        "projectUniqueName": "E:\\Necessary\\Studies\\University\\OpenUniversity\\Sadna\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Contracts\\Danstagram.Identities.Contracts.csproj",
         "projectName": "Danstagram.Identities.Contracts",
-        "projectPath": "D:\\Necessary\\Open Uni Matalot\\Sadna Be Tihnut monhe atzamim\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Contracts\\Danstagram.Identities.Contracts.csproj",
+        "projectPath": "E:\\Necessary\\Studies\\University\\OpenUniversity\\Sadna\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Contracts\\Danstagram.Identities.Contracts.csproj",
         "packagesPath": "C:\\Users\\dansh\\.nuget\\packages\\",
-        "outputPath": "D:\\Necessary\\Open Uni Matalot\\Sadna Be Tihnut monhe atzamim\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Contracts\\obj\\",
+        "outputPath": "E:\\Necessary\\Studies\\University\\OpenUniversity\\Sadna\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -27,7 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "D:\\Necessary\\Open Uni Matalot\\Sadna Be Tihnut monhe atzamim\\Danstagram\\packages": {},
+          "E:\\Necessary\\Studies\\University\\OpenUniversity\\Sadna\\Danstagram\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
