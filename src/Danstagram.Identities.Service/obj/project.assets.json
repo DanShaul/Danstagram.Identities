@@ -2103,11 +2103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Necessary\\Studies\\University\\OpenUniversity\\Sadna\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Service\\Danstagram.Identities.Service.csproj",
+      "projectUniqueName": "D:\\Necessary\\Open Uni Matalot\\Sadna Be Tihnut monhe atzamim\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Service\\Danstagram.Identities.Service.csproj",
       "projectName": "Danstagram.Identities.Service",
-      "projectPath": "E:\\Necessary\\Studies\\University\\OpenUniversity\\Sadna\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Service\\Danstagram.Identities.Service.csproj",
+      "projectPath": "D:\\Necessary\\Open Uni Matalot\\Sadna Be Tihnut monhe atzamim\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Service\\Danstagram.Identities.Service.csproj",
       "packagesPath": "C:\\Users\\dansh\\.nuget\\packages\\",
-      "outputPath": "E:\\Necessary\\Studies\\University\\OpenUniversity\\Sadna\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Service\\obj\\",
+      "outputPath": "D:\\Necessary\\Open Uni Matalot\\Sadna Be Tihnut monhe atzamim\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2123,15 +2123,15 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "E:\\Necessary\\Studies\\University\\OpenUniversity\\Sadna\\Danstagram\\packages": {},
+        "D:\\Necessary\\Open Uni Matalot\\Sadna Be Tihnut monhe atzamim\\Danstagram\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Necessary\\Studies\\University\\OpenUniversity\\Sadna\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Contracts\\Danstagram.Identities.Contracts.csproj": {
-              "projectPath": "E:\\Necessary\\Studies\\University\\OpenUniversity\\Sadna\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Contracts\\Danstagram.Identities.Contracts.csproj"
+            "D:\\Necessary\\Open Uni Matalot\\Sadna Be Tihnut monhe atzamim\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Contracts\\Danstagram.Identities.Contracts.csproj": {
+              "projectPath": "D:\\Necessary\\Open Uni Matalot\\Sadna Be Tihnut monhe atzamim\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Contracts\\Danstagram.Identities.Contracts.csproj"
             }
           }
         }

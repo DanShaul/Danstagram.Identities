@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y7Kq/Z1mqvUbQtnuqSRJodUcAAa/j/zRUeFvuDRRRaepZE/lGVsZjYXrDq6hxkQ2LZSZyP+j3zeG0xBWWiiqlQ==",
+  "dgSpecHash": "V4IuCvIbSQnwwFUeLkNOFvW9S0T043Ot0UNr656SCpkRTu5ewD1JLW/MBO8dK7wUejakV/Oxazl32iXw4YhtBQ==",
   "success": true,
-  "projectFilePath": "E:\\Necessary\\Studies\\University\\OpenUniversity\\Sadna\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Service\\Danstagram.Identities.Service.csproj",
+  "projectFilePath": "D:\\Necessary\\Open Uni Matalot\\Sadna Be Tihnut monhe atzamim\\Danstagram\\Danstagram.Identities\\src\\Danstagram.Identities.Service\\Danstagram.Identities.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dansh\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\dansh\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

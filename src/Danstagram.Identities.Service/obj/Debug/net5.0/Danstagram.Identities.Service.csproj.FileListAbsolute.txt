@@ -58,15 +58,9 @@ D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagra
 D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\Danstagram.Identities.Service.MvcApplicationPartsAssemblyInfo.cache
 D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\scopedcss\bundle\Danstagram.Identities.Service.styles.css
 D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\staticwebassets\Danstagram.Identities.Service.StaticWebAssets.Manifest.cache
-D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\staticwebassets\Danstagram.Identities.Service.StaticWebAssets.Pack.cache
-D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\staticwebassets\msbuild.Danstagram.Identities.Service.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\staticwebassets\msbuild.build.Danstagram.Identities.Service.props
-D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Danstagram.Identities.Service.props
-D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Danstagram.Identities.Service.props
 D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\Danstagram.Identities.Service.RazorTargetAssemblyInfo.cache
 D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\Danstagram.Identities.Service.csproj.CopyComplete
 D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\Danstagram.Identities.Service.dll
-D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\refint\Danstagram.Identities.Service.dll
 D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\Danstagram.Identities.Service.pdb
 D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\Danstagram.Identities.Service.genruntimeconfig.cache
 D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\ref\Danstagram.Identities.Service.dll
@@ -142,3 +136,9 @@ E:\Necessary\Studies\University\OpenUniversity\Sadna\Danstagram\Danstagram.Ident
 E:\Necessary\Studies\University\OpenUniversity\Sadna\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Danstagram.Identities.Service.props
 E:\Necessary\Studies\University\OpenUniversity\Sadna\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Danstagram.Identities.Service.props
 E:\Necessary\Studies\University\OpenUniversity\Sadna\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\refint\Danstagram.Identities.Service.dll
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\staticwebassets\Danstagram.Identities.Service.StaticWebAssets.Pack.cache
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\staticwebassets\msbuild.Danstagram.Identities.Service.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\staticwebassets\msbuild.build.Danstagram.Identities.Service.props
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Danstagram.Identities.Service.props
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Danstagram.Identities.Service.props
+D:\Necessary\Open Uni Matalot\Sadna Be Tihnut monhe atzamim\Danstagram\Danstagram.Identities\src\Danstagram.Identities.Service\obj\Debug\net5.0\refint\Danstagram.Identities.Service.dll
